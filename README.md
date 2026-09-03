@@ -89,4 +89,4 @@ A dashboard consuming a live sports REST API, with client-side polling to keep s
 
 Email: syedsafeeruddi439@gmail.com
 LinkedIn: [syed-safeeruddin](https://linkedin.com/in/syed-safeeruddin-004025291)
-Portfolio: _add your deployed portfolio link here_
+Portfolio: https://syedsafeeruddinportfolio.vercel.app/
